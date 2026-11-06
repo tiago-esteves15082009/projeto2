@@ -1,0 +1,116 @@
+body {
+    background-color: #182719;
+    margin: 30px;
+}
+
+.titulo-site{
+    color: #d9bd63;
+    text-align: center;
+    font-family: serif;
+}
+
+.titulo-site img {
+    width: 100px;
+    height: 100px;
+    align-content: center;
+}
+
+nav {
+    text-align: center;
+}
+
+.top{
+    text-align: left;
+}
+
+.Principio {
+    color: #d9bd63;
+    font-size: 50px;
+    font-family: comic;
+}
+.destaque {
+   background-color: #386641;
+   color: aliceblue;
+   font-size: 20px;
+   font-family: georgia;
+   margin: 20px;    
+}
+
+.tabela-1{
+    width: 45%;
+    border-left: solid 10px #d9bd63;
+}
+
+.tabela-2 {
+    width: 90%;
+    border-left: solid 10px #d9bd63;
+}
+
+.titulo {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-family: serif;
+    background-color: #26a33c;
+    font-size: 20px;
+    text-align: center;
+}
+
+.cover {
+    background-color: #0d4b0f;
+    text-align: center;
+}
+
+.cover img {
+    width: 190px;
+    height: 250px;
+}
+
+.adaptações {
+    background-color: #0d4b0f;
+    text-align: center;
+}
+
+.adaptações img{
+    width: 300px;
+    height: 250px;
+}
+
+.descriçao{
+    color: aliceblue;
+    background-color: #7e7c03;
+    font-family: georgia;
+    font-size: 20px;
+}
+
+.oficial {
+    color: #d9bd63;
+    font-family: serif;
+    font-size: 20px;
+}
+/*Acho que sinceramente exgerei nas imagens, mas eu queria manter o trabalho fiel à fonte, apenas acabei por excluir os "Spinoffs" senão o trabalho seria extremamente grande
+ também removi alguns dos "main-games" para ter exatamente 20 ficheiros na "pasta projeto 2"*/
+/*
+1. A regra CSS que me deu mais trabalho foi o "border",
+porque tive de experimentar diferentes valores até acidentalmente descobrir o "border-left" e assim conseguir
+o resultado que queria nas tabelas.
+
+2. Um dos erros que cometi foi esquecer-me de colocar pontos e vírgulas
+no fim de algumas propriedades do CSS. Também cheguei a escrever nomes
+de classes de forma diferente no HTML e no CSS. Corrigi estes erros
+ao rever o código e confirmar se os nomes coincidiam.
+
+3. O src é usado para indicar onde está guardado o ficheiro que queremos
+colocar no site, neste caso uma imagem. Esse ficheiro pode estar na pasta
+do projeto ou estar alojado online, por exemplo, no Google. Usei este
+atributo várias vezes no meu trabalho para adicionar imagens dos jogos
+e de outros conteúdos relacionados com The Legend of Zelda.
+*/   
+
+
+
+
+
+
+
+
+
